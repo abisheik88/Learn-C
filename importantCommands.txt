@@ -1,0 +1,5 @@
+code hello.c     //hello.c is the filename with extension
+
+make hello       //Compiles C file (source code to machine code)
+
+./hello          //runs the compiled code
